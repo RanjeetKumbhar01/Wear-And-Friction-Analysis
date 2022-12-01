@@ -21,7 +21,7 @@ Artificial neural network, Decision-Tree Reg, Random Forest Reg, Bagging reg, an
 <br>
 ## Accuracy of Model
 ![image](https://user-images.githubusercontent.com/90677720/205062886-0bf69e49-9eb0-4c86-a4df-bb8a079f4fdf.png)
-## Test Data Results:
+## Results of Test Data :
 ![image](https://user-images.githubusercontent.com/90677720/205063216-8db3ea3e-a4da-43fb-8144-d7ec91eb2fca.png)
 ------------------------------------------------------------------------------------------------------------------
 
@@ -34,5 +34,5 @@ Artificial neural network, Decision-Tree Reg, Random Forest Reg, Bagging reg, an
 
 ![image](https://user-images.githubusercontent.com/90677720/205064270-81dc2fcf-d553-4c83-8c4e-c3a07e299bcd.png)
 
-## Test Data Results:
+## Results of Test Data :
 ![image](https://user-images.githubusercontent.com/90677720/205064308-52fe172d-d634-4435-90ed-491ffee91422.png)
