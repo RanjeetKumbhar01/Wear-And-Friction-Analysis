@@ -1,5 +1,5 @@
 # Wear-And-Friction-Analysis
-The Wear-And-Friction-Analysis project focuses on understanding the relationship between different factors and their impact on wear and friction. By predicting the coefficient of friction (µ) using key input variables, such as laminated scheme, plate thickness, speed, force, and time, and conducting wear analysis experiments, the project aims to enhance efficiency and durability in engineering systems by minimizing wear and optimizing frictional behavior.
+The Wear-And-Friction-Analysis project focuses on understanding the relationship between different factors and their impact on wear and friction. By predicting the coefficient of friction (µ) using key input variables, such as laminated scheme, plate thickness, speed, force, and time, and conducting wear analysis experiments.
 
 
 | **Features**           | **Target Variable**          |
